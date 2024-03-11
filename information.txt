@@ -1,7 +1,0 @@
-Hola me llamo Ricardo y tengo 45 años
-ing. sistemas cumputacionales
-<<<<<<< HEAD
-Azul es la onda
-=======
-actualmente vivo en Coahuila
->>>>>>> header
